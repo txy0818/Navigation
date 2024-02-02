@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/nuc.ico</file>
+        <file>image/nucMap.png</file>
+        <file>image/CFEF9E80298F08911E957E624F3C4418.jpg</file>
+    </qresource>
+</RCC>
